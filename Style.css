@@ -1,0 +1,90 @@
+body
+{
+    margin-top:0;
+    margin-left:0;
+}
+.logo-image{
+    width: 20%;
+    height: 30%;
+    margin-top: 20px;
+    overflow: hidden;
+    padding:0px;
+    
+}
+.address-div
+{
+    color:azure;
+    width:15%;
+    margin-right: 0px;;
+}
+.background-setter
+{
+    background-color:black;
+}
+#title
+{
+    background-color:red;
+}
+.top-bar
+{
+    float:right;
+}
+#top-search
+{
+    width:32%
+}
+.navbar-color
+{
+    color:azure;
+}
+a
+{
+    color:white;
+}
+.container
+{
+   padding:5%;
+    
+}
+.col-elements
+{
+    display:inline-block;
+    margin-left:80px;
+}
+.bottom-container
+  {
+    background-color:#37475A;
+    color:white;
+   
+    
+    margin-bottom: 0;
+    padding:10px;
+    text-align: center;
+    
+  }
+  
+  .bottom-table
+  {
+      padding:2%;
+      background-color: #232F3E;
+  }
+  .table-color
+  {
+    background-color: #232F3E;
+  }
+  .alm-card
+  {
+      padding-top:8%;
+  }
+  .shoe-card
+  {
+      padding-top:18%;
+  }
+  .head-card
+  {
+      padding-top:3%;
+  }
+  .filt-card
+  {
+      padding-top:8%;
+  }
